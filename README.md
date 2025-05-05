@@ -1,6 +1,8 @@
 # Awesome AI SEO Tools
 
-A curated list of awesome AI-powered tools and software relevant to Search Engine Optimization (SEO). These tools leverage artificial intelligence, machine learning, and natural language processing to automate tasks, gain insights, and improve efficiency in various aspects of SEO. 
+A curated list of awesome AI-powered tools and software relevant to Search Engine Optimization (SEO). These tools leverage artificial intelligence, machine learning, and natural language processing to automate tasks, gain insights, and improve efficiency in various aspects of SEO.
+
+Be sure to check out our free AI Prompt generator for SEO called Promptimizer 100% free to use. [Promptimizer SEO Prompt Generator](https://yourpalzack.com/promptimizer/)
 
 Looking for SEO help with your project? Check out the AI-SEO guide at [YourPalZack.com](https://yourpalzack.com/ai-seo/)
 
