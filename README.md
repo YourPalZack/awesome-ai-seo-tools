@@ -208,6 +208,7 @@ AI-enhanced tools for analyzing SEO performance, tracking rankings, understandin
 
 Tools focused on understanding and optimizing for AI-driven search features like Google's AI Overviews (formerly SGE).
 
+* [AgentReady](https://agentready.site) - Free AI Readiness Scanner that scores any website 0-100 for visibility to ChatGPT, Perplexity, Google AI Overviews, and Claude. Analyzes 8 factors including schema markup, llms.txt, bot access, and content quality. Backed by a 984-website correlation study.
 * [AI Search Grader](https://aisearchgrader.com/) - Analyzes brand visibility and appearance within AI search engine results.
 * [seoClarity](https://www.seoclarity.net/) - Includes features for tracking which keywords trigger AI Overviews and monitoring visibility within them.
 * [SearchAttention](https://www.searchattention.com/) - Tool designed to optimize content specifically for AI Search Engines like Google AI Overview and Perplexity.
