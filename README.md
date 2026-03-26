@@ -209,6 +209,7 @@ AI-enhanced tools for analyzing SEO performance, tracking rankings, understandin
 Tools focused on understanding and optimizing for AI-driven search features like Google's AI Overviews (formerly SGE).
 
 * [AI Search Grader](https://aisearchgrader.com/) - Analyzes brand visibility and appearance within AI search engine results.
+* [Cited By AI®](https://citedbyai.info) - UK-based ASEO platform scoring content at block level using the Citation Probability Score® (CPS®) framework. Predicts citation probability across ChatGPT, Perplexity, Gemini, Claude, and Google AI Overviews across five pillars: Content Structure, Fact Density, Answer Structure, Self-Containment, and Freshness Signals. Free CPS® Lite checker via MCP — no sign-up required.
 * [seoClarity](https://www.seoclarity.net/) - Includes features for tracking which keywords trigger AI Overviews and monitoring visibility within them.
 * [SearchAttention](https://www.searchattention.com/) - Tool designed to optimize content specifically for AI Search Engines like Google AI Overview and Perplexity.
 * [Perplexity AI](https://www.perplexity.ai/) - Conversational AI search engine itself, useful for researching how AI answers queries.
