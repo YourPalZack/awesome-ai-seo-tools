@@ -157,6 +157,7 @@ Tools using AI for crawling websites, identifying technical issues, optimizing s
 * [WordLift](https://wordlift.io/) - AI-powered SEO tool that builds knowledge graphs and automates structured data markup.
 * [INLinks](https://inlinks.net/) - SEO tool focused on entities, semantic analysis, schema automation, and internal linking.
 * [ContentKing](https://www.contentkingapp.com/) - Real-time SEO auditing and change tracking platform.
+* [SEO Audit Tool](https://seo.textools.site/) - Self-evolving SEO analysis system with 24-point detection matrix. Weekly rule updates from Google official sources, automated fix generation, and optimized HTML output.
 
 ## Link Building & Outreach
 
