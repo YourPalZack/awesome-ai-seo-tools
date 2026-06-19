@@ -236,6 +236,7 @@ Widely used AI tools that can be applied to various SEO tasks like brainstorming
 * [ChatGPT](https://chat.openai.com/) (OpenAI) - Powerful language model for brainstorming ideas, writing drafts, summarizing text, analyzing data, coding schema, and more.
 * [Google Gemini](https://gemini.google.com/) (formerly Bard) - Google's conversational AI assistant, useful for research, content generation, and integrating with Google Workspace.
 * [Claude](https://claude.ai/) (Anthropic) - Conversational AI known for its strong writing capabilities and larger context window.
+* [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills (~2.9k stars) for SEO, Google Ads, and Meta Ads, connecting live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 * [Microsoft Copilot](https://copilot.microsoft.com/) - AI assistant integrated into Windows, Edge, and Microsoft 365, often leveraging GPT models.
 * [Perplexity AI](https://www.perplexity.ai/) - Conversational search engine that provides cited answers, excellent for research and understanding query intent.
 * [Notion AI](https://www.notion.so/product/ai) - AI features integrated within the Notion workspace for writing, summarizing, brainstorming, and task management.
