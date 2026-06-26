@@ -213,6 +213,7 @@ Tools focused on understanding and optimizing for AI-driven search features like
 * [SearchAttention](https://www.searchattention.com/) - Tool designed to optimize content specifically for AI Search Engines like Google AI Overview and Perplexity.
 * [Perplexity AI](https://www.perplexity.ai/) - Conversational AI search engine itself, useful for researching how AI answers queries.
 * [Phind](https://www.phind.com/) - AI search engine focused on developers and technical questions, useful for understanding AI responses in technical niches.
+* [LLM Pulse](https://llmpulse.ai) - All-in-one AI search platform tracking brand visibility, mentions, citations and share of voice across ChatGPT, Perplexity, Gemini, and Google AI Overviews.
 
 ## Image & Visual SEO
 
