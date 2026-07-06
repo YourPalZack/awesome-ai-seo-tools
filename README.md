@@ -209,6 +209,7 @@ AI-enhanced tools for analyzing SEO performance, tracking rankings, understandin
 Tools focused on understanding and optimizing for AI-driven search features like Google's AI Overviews (formerly SGE).
 
 * [AI Search Grader](https://aisearchgrader.com/) - Analyzes brand visibility and appearance within AI search engine results.
+* [AnswerLens](https://app.sfdj.net/) - Audits the public evidence layer of B2B SaaS sites, including crawlable pricing, comparison, proof, metadata, and `llms.txt` pages before teams run AI-search tests.
 * [seoClarity](https://www.seoclarity.net/) - Includes features for tracking which keywords trigger AI Overviews and monitoring visibility within them.
 * [SearchAttention](https://www.searchattention.com/) - Tool designed to optimize content specifically for AI Search Engines like Google AI Overview and Perplexity.
 * [Perplexity AI](https://www.perplexity.ai/) - Conversational AI search engine itself, useful for researching how AI answers queries.
