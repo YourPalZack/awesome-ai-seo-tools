@@ -38,6 +38,7 @@ Comprehensive suites offering a wide range of SEO tools, often incorporating AI 
 * [HubSpot](https://www.hubspot.com/products/marketing/seo) - Marketing automation platform with built-in SEO tools for content strategy, optimization, and topic clusters.
 * [WriterZen](https://writerzen.net/) - Content workflow software combining keyword research, topic discovery, and AI writing assistance.
 * [RankIQ](https://rankiq.com/) - AI SEO toolkit designed for bloggers, focusing on low-competition keywords and content optimization reports.
+* [Screpy](https://screpy.com/) - AI SEO platform for technical audits, keyword research, rank tracking, Core Web Vitals, uptime monitoring, and reporting.
 
 ## Content Creation & Optimization
 
