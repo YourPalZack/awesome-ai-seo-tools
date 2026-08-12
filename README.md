@@ -174,6 +174,7 @@ AI tools designed to assist with finding link prospects, managing outreach campa
 * [Outreach.io](https://www.outreach.io/) - Sales execution platform used for managing customer interactions and outreach, applicable to link building.
 * [Seamless.AI](https://www.seamless.ai/) - Real-time search engine for finding B2B contact information.
 * [Reply.io](https://reply.io/) - Sales engagement platform with AI features for automating outreach across multiple channels.
+* [Mentioned](https://mentioned.to/) - Managed service that places brand mentions in Reddit threads ranking on Google for your keywords, and tracks share of voice vs competitors.
 * [Instantly.ai](https://instantly.ai/) - Cold email software focused on deliverability and scaling outreach campaigns.
 
 ## Local SEO
