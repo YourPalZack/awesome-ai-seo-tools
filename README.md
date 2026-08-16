@@ -267,6 +267,7 @@ Specialized AI tools relevant to specific SEO-adjacent tasks like paraphrasing, 
 * [Descript](https://www.descript.com/) - All-in-one audio and video editor with AI features like transcription and voice cloning.
 * [VEED.IO](https://www.veed.io/) - Online video editing suite with AI tools for subtitling, transcription, and potentially content generation.
 * [Pictory](https://pictory.ai/) - AI tool that creates videos from scripts or blog posts automatically.
+* [videos.social](https://videos.social/?utm_source=yourpalzack-awesome-ai-seo-tools&utm_medium=directory&utm_campaign=listing-wave-d) - Turns blogs, PDFs, and prompts into editable faceless videos.
 * [Surfer SEO SERP Analyzer](https://surferseo.com/serp-analyzer/) - Detailed analysis of top-ranking pages for a target keyword.
 * [Semrush SERP Gap Analyzer](https://www.semrush.com/analytics/keywordgap/) - Tool for comparing keyword rankings between domains to find opportunities.
 
