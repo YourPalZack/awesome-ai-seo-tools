@@ -158,6 +158,8 @@ Tools using AI for crawling websites, identifying technical issues, optimizing s
 * [INLinks](https://inlinks.net/) - SEO tool focused on entities, semantic analysis, schema automation, and internal linking.
 * [ContentKing](https://www.contentkingapp.com/) - Real-time SEO auditing and change tracking platform.
 
+* [SeoGeoAgent](https://orkas.ai/agents/seo-geo-agent/?source=gh_zackseo) - Audits technical SEO, content, schema, Core Web Vitals, and AI-answer visibility, then returns prioritized findings and fixes inside Orkas, an open-source, local-first desktop AI workforce coordinated by a Commander.
+
 ## Link Building & Outreach
 
 AI tools designed to assist with finding link prospects, managing outreach campaigns, and personalizing communication.
