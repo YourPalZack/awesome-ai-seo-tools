@@ -104,6 +104,7 @@ Tools specifically designed to generate, optimize, and improve website content u
 * [ConvertMate](https://www.convertmate.io/) - Shopify SEO tool using AI to optimize product pages, descriptions, meta titles, and alt text.
 * [SearchSocket](https://searchsocket.com/) - Free AI tool providing real-time SEO suggestions based on Google's guidelines.
 * [TailorTask](https://www.tailortask.com/) - AI agents designed to automate tasks like internal linking and blog post creation.
+* [WarmQuant](https://warmquant.com/) - AI-assisted English content drafting from notes, with writing angles, author and reader personas, and editable saved drafts.
 
 ## Keyword Research & Analysis
 
