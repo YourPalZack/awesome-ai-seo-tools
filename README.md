@@ -213,6 +213,7 @@ Tools focused on understanding and optimizing for AI-driven search features like
 * [SearchAttention](https://www.searchattention.com/) - Tool designed to optimize content specifically for AI Search Engines like Google AI Overview and Perplexity.
 * [Perplexity AI](https://www.perplexity.ai/) - Conversational AI search engine itself, useful for researching how AI answers queries.
 * [Phind](https://www.phind.com/) - AI search engine focused on developers and technical questions, useful for understanding AI responses in technical niches.
+* [Proofsource](https://proofsource.co/) - Tracks which buyer questions name your brand in ChatGPT, Perplexity, Claude and Google AI Overviews, which competitors are named instead, which sources are cited, and what to fix.
 
 ## Image & Visual SEO
 
