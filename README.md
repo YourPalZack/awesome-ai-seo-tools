@@ -213,6 +213,7 @@ Tools focused on understanding and optimizing for AI-driven search features like
 * [SearchAttention](https://www.searchattention.com/) - Tool designed to optimize content specifically for AI Search Engines like Google AI Overview and Perplexity.
 * [Perplexity AI](https://www.perplexity.ai/) - Conversational AI search engine itself, useful for researching how AI answers queries.
 * [Phind](https://www.phind.com/) - AI search engine focused on developers and technical questions, useful for understanding AI responses in technical niches.
+* [Orkkid AI Citation Checker](https://orkkid.com/tools/ai-citation-checker) - Free, no-signup check of whether ChatGPT and Perplexity cite a business for its buyer questions, with the competitors cited instead and the sources behind the answers.
 
 ## Image & Visual SEO
 
