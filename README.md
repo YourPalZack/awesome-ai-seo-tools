@@ -127,6 +127,7 @@ Tools leveraging AI to find keywords, understand search intent, analyze competit
 * [Surfer SEO Keyword Research](https://surferseo.com/keyword-research-tool/) - Identifies topic clusters based on user intent.
 * [GrowthBar](https://www.growthbarseo.com/) - Includes keyword research features alongside its AI writing tools.
 * [MarketMuse](https://www.marketmuse.com/) - Uses AI for topic modeling which aids in understanding keyword relationships and content gaps.
+* [Mode VC WebMCP & Backlink Lens](https://modevc.com/tools/webmcp-backlink-lens) - Open-source Manifest V3 Chrome Extension and W3C WebMCP inspector for auditing dofollow/nofollow links and `.well-known/mcp.json` manifests.
 
 ## Technical SEO & Site Audits
 
