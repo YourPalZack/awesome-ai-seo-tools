@@ -136,6 +136,7 @@ Tools using AI for crawling websites, identifying technical issues, optimizing s
 * [Sitebulb](https://sitebulb.com/) - Website auditing tool providing detailed insights and prioritised recommendations for technical SEO.
 * [Google Search Console](https://search.google.com/search-console/about) - Essential free tool from Google for monitoring site performance, indexing status, and technical issues.
 * [Bing Webmaster Tools](https://www.bing.com/webmasters/) - Microsoft's equivalent to Search Console, offering site diagnostics and keyword tools.
+* [CrakSEO Search Console MCP](https://docs.crakseo.com/mcp-servers/search-console) - Free remote MCP access for AI assistants to query owned-site Google Search Console and Bing Webmaster data; authentication required.
 * [Yandex Webmaster](https://webmaster.yandex.com/) - Yandex's tool for monitoring site presence in their search results, with technical SEO features.
 * [Alli AI](https://alliai.com/) - AI tool for automating on-page optimization, code changes, and A/B testing for technical SEO improvements.
 * [Indexly](https://indexly.app/) - AI tool focused on automating the process of getting web pages indexed by search engines.
