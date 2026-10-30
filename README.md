@@ -213,7 +213,7 @@ Tools focused on understanding and optimizing for AI-driven search features like
 * [SearchAttention](https://www.searchattention.com/) - Tool designed to optimize content specifically for AI Search Engines like Google AI Overview and Perplexity.
 * [Perplexity AI](https://www.perplexity.ai/) - Conversational AI search engine itself, useful for researching how AI answers queries.
 * [Phind](https://www.phind.com/) - AI search engine focused on developers and technical questions, useful for understanding AI responses in technical niches.
-* [MessGEO](https://messgeo.com/) - Tracks how brands appear in ChatGPT, Gemini, Copilot, Perplexity and Google AI Overviews, with daily prompt tracking, share of voice and competitor comparison.
+* [MessGEO](https://messgeo.com/) - Tracks how brands appear in ChatGPT, Gemini, Copilot, Google AI Mode and AI Overviews, with daily prompt tracking, share of voice and competitor comparison.
 
 ## Image & Visual SEO
 
