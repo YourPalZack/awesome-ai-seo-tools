@@ -203,6 +203,7 @@ AI-enhanced tools for analyzing SEO performance, tracking rankings, understandin
 * [Hotjar](https://www.hotjar.com/) - User behavior analytics tool (heatmaps, recordings) with some AI features for summarizing feedback.
 * [Microsoft Clarity](https://clarity.microsoft.com/) - Free user behavior analytics tool with heatmaps and session recordings, using ML for insights.
 * [Tableau](https://www.tableau.com/) - Business intelligence and data visualization tool with AI capabilities (Explain Data, Einstein Discovery).
+* [Vaneform](https://vaneform.com/) - Free website traffic checker with monthly visits, trends, channel mix, and category leaderboards.
 
 ## AI Search Analysis
 
